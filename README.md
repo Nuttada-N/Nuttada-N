@@ -3,8 +3,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=550&lines=Junior+Full+Stack+Developer;Learning+QA+%26+Software+Testing;Curious+about+Business+%26+Startups)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=550&lines=Junior+Full+Stack+Developer;Learning+QA+%26+Software+Testing;Curious+about+Business+%26+Startups)
 <br/>
 
 <!-- Replace each # with your real link, or delete the badges you don't use -->
