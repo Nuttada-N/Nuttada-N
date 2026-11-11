@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Nuttada Netpub
+## คติประจำใจ 
+โนคาร์บ โนแคล
 
 <div align="center">
 
@@ -74,7 +76,5 @@
 ---
 
 <div align="center">
-
-💬 *Open to learning opportunities, collaboration, and conversations about tech and startups.*
 
 </div>
