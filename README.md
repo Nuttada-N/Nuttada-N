@@ -53,31 +53,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nuttada-N&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nuttada-N&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nuttada-N&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nuttada-N&theme=tokyonight" width="95%" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nuttada-N&theme=tokyonight" height="165" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nuttada-N&theme=tokyonight" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuttada-N&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuttada-N&theme=tokyo-night&hide_border=true&area=true&radius=10" width="95%" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nuttada-N/Nuttada-N/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Nuttada-N/Nuttada-N/output/github-snake.svg" width="95%" alt="Snake eating contributions" />
-  </picture>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer" width="100%" />
+---
