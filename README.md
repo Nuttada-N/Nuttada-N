@@ -7,9 +7,9 @@
 <br/>
 
 <!-- Replace each # with your real link, or delete the badges you don't use -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuttada-netpub-8435842b2/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nuttada-N)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pen080541@gmail.com)
 
 </div>
 
@@ -61,7 +61,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Nuttada-N&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nuttada-N&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
